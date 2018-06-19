@@ -1,5 +1,7 @@
-# Object file
-*.o
+# exclude everything JPG
+*.jpg
 
-# Ada Library Information
-*.ali
+# exclude ext folder
+/ext/*
+
+# exclude all jpg file in images folder/images/*.jpg
